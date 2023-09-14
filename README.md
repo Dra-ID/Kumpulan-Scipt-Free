@@ -12,3 +12,11 @@ git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
 cd Kumpulan-Scipt-Free
 python -m pip install -r requirements.txt
 python Run.py
+```
+# Menambah Viewers Tiktok
+```python
+apt update -y && apt upgrade -y
+pkg install git python-pip
+git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
+cd Kumpulan-Scipt-Free
+python bot2.py
