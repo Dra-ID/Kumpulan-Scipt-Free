@@ -22,4 +22,5 @@ apt update -y && apt upgrade -y
 pkg install git python-pip
 git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
 cd Kumpulan-Scipt-Free
+pip install -r requirements.txt
 python bot2.py
