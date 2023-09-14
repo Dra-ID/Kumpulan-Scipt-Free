@@ -24,3 +24,19 @@ git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
 cd Kumpulan-Scipt-Free
 pip install -r requirements.txt
 python bot2.py
+```
+
+# Crack Facebook
+```python
+pkg update && pkg upgrade
+pkg install python
+pkg install git
+pip install stdiomask
+pip install requests
+pip install bs4
+pip install requests
+pip install rich
+pip install mechanize
+git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
+cd Kumpulan-Scipt-Free
+python run2.py
