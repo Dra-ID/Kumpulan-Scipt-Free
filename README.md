@@ -40,3 +40,13 @@ pip install mechanize
 git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
 cd Kumpulan-Scipt-Free
 python run2.py
+```
+# Script Bokep Anime and Java
+```python
+apt update -y && apt upgrade -y
+pkg install git python-pip
+git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
+cd Kumpulan-Scipt-Free
+git pull
+pip install -r requirements.txt
+python Xnxx.py
