@@ -37,9 +37,10 @@ pip install bs4
 pip install requests
 pip install rich
 pip install mechanize
-git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
-cd Kumpulan-Scipt-Free
-python run2.py
+pip install pwinput
+git clone https://github.com/Fii-XD/Colmek
+cd Colmek
+python Ewe.py
 ```
 # Script Bokep Anime and Java
 ```python
