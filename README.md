@@ -7,7 +7,7 @@
 <li><code>Gabunng Group WhatsApp Gue
 <a href="https://chat.whatsapp.com/EVeKyWLk3OHEHOPQdIWNHe">Script termux indonesia 🇵🇱</a></code></li> 
 
-# Encrypt OBF3 HARD TO DEC
+# Encrypt OBF-PY3 HARD TO DEC
 ```python
 pkg install python
 pkg install python3
