@@ -7,6 +7,19 @@
 <li><code>Gabunng Group WhatsApp Gue
 <a href="https://chat.whatsapp.com/EVeKyWLk3OHEHOPQdIWNHe">Script termux indonesia 🇵🇱</a></code></li> 
 
+# Encrypt OBF3 HARD TO DEC
+```python
+pkg install python
+pkg install python3
+pkg install python-pip
+pkg install git
+sudo apt install git python3
+cd #HOME
+git clone https://github.com/Dra-ID/Py-Fuscate.git
+cd Py-Fuscate
+python -m pip install -r requirements.txt
+python3 encode.py -i sdcard/file.py -o sdcard/out.py -c Mau enc berapa lu minimum 100 sampai 500
+```
 # Instagram Like
 ```python
 apt update -y && apt upgrade -y
