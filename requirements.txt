@@ -6,3 +6,4 @@ colorama
 datetime
 pystyle
 inquirer
+fake_useragent
