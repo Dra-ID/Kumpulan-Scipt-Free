@@ -60,9 +60,9 @@ pip install requests
 pip install rich
 pip install mechanize
 pip install pwinput
-git clone https://github.com/Fii-XD/Colmek
-cd Colmek
-python Ewe.py
+git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
+cd Kumpulan-Scipt-Free
+python SMBF.py
 ```
 # Script Bokep Anime and Java
 ```python
