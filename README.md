@@ -8,13 +8,8 @@
 <a href="https://chat.whatsapp.com/EVeKyWLk3OHEHOPQdIWNHe">Script termux indonesia 🇵🇱</a></code></li> 
 
 # sc Spam Wa Sms
-```python
-apt update -y && apt upgrade -y
-pkg install git python-pip
-git clone https://github.com/Dra-ID/Kumpulan-Scipt-Free
-cd Kumpulan-Scipt-Free
-pip install -r requirements.txt
-python spam.py
+```
+https://youtu.be/LmUQ7Jo0azg?si=ScjuEjzVftnWogeC
 ```
 # Encrypt OBF-PY3 HARD TO DEC
 ```python
