@@ -8,7 +8,7 @@
 <a href="https://chat.whatsapp.com/EVeKyWLk3OHEHOPQdIWNHe">Script termux indonesia 🇵🇱</a></code></li> 
 
 # sc Spam Wa Sms
-```
+```php
 https://youtu.be/LmUQ7Jo0azg?si=ScjuEjzVftnWogeC
 ```
 # Encrypt OBF-PY3 HARD TO DEC
